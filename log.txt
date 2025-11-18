@@ -1,0 +1,55 @@
+Error desde hilo 0
+Error desde hilo 1
+Error desde hilo 2
+Error desde hilo 3
+Error desde hilo 4
+Error desde hilo 0
+Error desde hilo 1
+Error desde hilo 2
+Error desde hilo 3
+Error desde hilo 4
+Mensaje del hilo 0
+Mensaje del hilo 1
+Mensaje del hilo 2
+Mensaje del hilo 3
+Mensaje del hilo 4
+Mensaje del hilo 5
+Mensaje del hilo 6
+Mensaje del hilo 7
+Mensaje del hilo 8
+Mensaje del hilo 9
+Hilo 0 escribió un mensaje.
+Hilo 1 escribió un mensaje.
+Hilo 2 escribió un mensaje.
+Hilo 3 escribió un mensaje.
+Hilo 4 escribió un mensaje.
+Mensaje del hilo 0
+Mensaje del hilo 1
+Mensaje del hilo 2
+Mensaje del hilo 3
+Mensaje del hilo 4
+Mensaje del hilo 5
+Mensaje del hilo 6
+Mensaje del hilo 7
+Mensaje del hilo 8
+Mensaje del hilo 9
+Mensaje del hilo 0
+Mensaje del hilo 1
+Mensaje del hilo 2
+Mensaje del hilo 3
+Mensaje del hilo 4
+Mensaje del hilo 5
+Mensaje del hilo 6
+Mensaje del hilo 7
+Mensaje del hilo 8
+Mensaje del hilo 9
+Mensaje del hilo 0
+Mensaje del hilo 1
+Mensaje del hilo 2
+Mensaje del hilo 3
+Mensaje del hilo 4
+Mensaje del hilo 5
+Mensaje del hilo 6
+Mensaje del hilo 7
+Mensaje del hilo 8
+Mensaje del hilo 9
